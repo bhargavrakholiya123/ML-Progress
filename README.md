@@ -1,2 +1,2 @@
 # ML-Progress
-Thid repo for track my lerning and progress of ML 
+This repo for track my lerning and progress of AI/ML 
